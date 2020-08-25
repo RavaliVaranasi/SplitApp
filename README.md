@@ -1,0 +1,2 @@
+# splitapp
+Expenditure share app
