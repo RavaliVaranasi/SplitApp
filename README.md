@@ -1,2 +1,2 @@
-# splitapp
+# Split WebApp
 Expenditure share app
